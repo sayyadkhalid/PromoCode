@@ -53,5 +53,11 @@
   <ItemGroup>
     <Content Include="PromotionDetails.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PromotionLib\PromotionLib.csproj">
+      <Project>{8716179D-CA7B-44F3-BAF7-65CAA1E3946E}</Project>
+      <Name>PromotionLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

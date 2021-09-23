@@ -1,0 +1,8 @@
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionLib\bin\Debug\netstandard2.0\PromotionLib.deps.json
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionLib\bin\Debug\netstandard2.0\PromotionLib.dll
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionLib\bin\Debug\netstandard2.0\PromotionLib.pdb
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionLib\obj\Debug\netstandard2.0\PromotionLib.csprojAssemblyReference.cache
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionLib\obj\Debug\netstandard2.0\PromotionLib.AssemblyInfoInputs.cache
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionLib\obj\Debug\netstandard2.0\PromotionLib.AssemblyInfo.cs
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionLib\obj\Debug\netstandard2.0\PromotionLib.dll
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionLib\obj\Debug\netstandard2.0\PromotionLib.pdb

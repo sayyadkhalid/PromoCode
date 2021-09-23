@@ -1,0 +1,15 @@
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\bin\Debug\PromotionTest.dll
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\bin\Debug\PromotionTest.pdb
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\bin\Debug\PromotionLib.dll
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\bin\Debug\PromotionLib.pdb
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\obj\Debug\PromotionTest.csprojAssemblyReference.cache
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\obj\Debug\PromotionTest.csproj.CopyComplete
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\obj\Debug\PromotionTest.dll
+C:\Users\Khalid\source\repos\PromotionEngineTest1\PromotionTest\obj\Debug\PromotionTest.pdb
