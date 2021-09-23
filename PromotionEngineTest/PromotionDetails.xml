@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PROMOS>
+  <PROMO>
+    <ID>100</ID>
+    <SKU>A</SKU>
+    <QTY>3</QTY>
+  </PROMO>
+  <PROMO>
+    <ID>200</ID>
+    <SKU>B</SKU>
+    <QTY>2</QTY>
+  </PROMO>
+  <PROMO>
+    <ID>300</ID>
+    <SKU>B</SKU>
+    <QTY>2</QTY>
+  </PROMO>
+</PROMOS>
